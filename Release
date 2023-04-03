@@ -1,0 +1,17 @@
+Origin: AGmail
+Label: AGmail
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: AGmail
+
+Origin: AHook
+Label: AHook
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: AHook

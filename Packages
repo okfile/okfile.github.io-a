@@ -1,0 +1,17 @@
+Package: AGmail
+Version: 1.0
+Section: Utilities
+Maintainer: OkFile
+Archtecture: iphone-arm
+Filename: ./debs/com.AGmail.deb
+Size: 23740
+MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
+
+Package: AHook
+Version: 1.0
+Section: Utilities
+Maintainer: OkFile
+Archtecture: iphone-arm
+Filename: ./debs/com.ih.Autolead.deb
+Size: 37924
+MD5sum: 2405026e4f534109d4a7dac339a06b84
