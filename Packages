@@ -1,17 +1,82 @@
-Package: AGmail
-Version: 1.0
-Section: Utilities
-Maintainer: OkFile
-Archtecture: iphone-arm
-Filename: ./debs/com.AGmail.deb
-Size: 23740
-MD5sum: 860c0c285b0a2d7d9f7e347f2eaabd11
+Package: Autolead13
+Name: Autolead13
+Version: 0.9
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.autolead13.deb
+Size: 48704
+MD5sum: ebb5f3261b8d56770a178e1baf126182
 
-Package: AHook
+
+Package: IPA
+Name: IPA Support
 Version: 1.0
+Maintainer: An Tran
+Author: An Tran
 Section: Utilities
-Maintainer: OkFile
 Archtecture: iphone-arm
-Filename: ./debs/com.ih.Autolead.deb
-Size: 37924
-MD5sum: 2405026e4f534109d4a7dac339a06b84
+Filename: ./debs/com.IPA.deb
+Size: 78206
+MD5sum: 0ad79ce42689c31a0552b69870edeec1
+
+
+
+
+Package: 12Act
+Name: 12ACT
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: System
+Depends: com.rpetrich.rocketbootstrap, libactivator, appList, curl, lsof, OpenSSH, Sudo, com.rbt.useragentchanger, jetslammed, network-cmds
+Filename: ./debs/com.12act.deb
+Size: 2294
+MD5sum: 24c1bdd4591823e8b23cbdac0a8fe570
+
+
+
+Package: Autolead12
+Name: Autolead12
+Version: 1.0-22
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranautolead12.deb
+Size: 450480
+MD5sum: 25b1e8acd0d38f742a653af8db766c37
+
+
+Package: AnTranHookIOS12
+Name: AnTranHookIOS12
+Version: 1.0-192
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranhook12.deb
+Size: 15256
+MD5sum: fa4b9e56a1f184e7e9b8ee792e892daa
+
+Package: AnTranHookIOS13
+Name: AnTranHookIOS13
+Version: 1.0-225
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Tweaks for IOS
+Maintainer: An Tran
+Author: An Tran
+Section: Tweaks
+Filename: ./debs/com.antranhook13.deb
+Size: 28700
+MD5sum: f9ec4ce8daa9aced84c443af56aaedcc
